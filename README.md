@@ -1,4 +1,6 @@
-# EDA of a travel reviews dataset using several Unssupervised learning algorithms
+# Travel Rating reviews:
+
+## Goal: Perform EDA using several Unsupervised learning algorithms
 
 #### Data: https://archive.ics.uci.edu/ml/datasets/Tarvel+Review+Ratings
 
